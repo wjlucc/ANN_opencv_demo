@@ -1,2 +1,2 @@
 # ANN_opencv_demo
-ANN fot License plate recognition using opencv
+ANN for License plate recognition using opencv
